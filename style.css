@@ -1,0 +1,13 @@
+table{
+    border-collapse: collapse;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+
+}
+.mars{
+    background-color: blue;
+    color: white;
+}
+.salom{
+    background-color: rgb(209, 236, 232);
+}
